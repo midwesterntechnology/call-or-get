@@ -1,0 +1,8 @@
+{
+  "name": "call-or-get",
+  "scripts": {
+    "build": "tsc"
+  },
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts"
+}
