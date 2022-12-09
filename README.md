@@ -11,7 +11,7 @@ npm install call-or-get
 ## Usage
 
 ```python
-import { callOrGet, ValueOrFactory } from "call-or-get"
+import { callOrGet, ValueOrFactory } from "value-or-factory"
 
 function print(value: ValueOrFactory<string, [string]>) {
  return callOrGet(value, "")
