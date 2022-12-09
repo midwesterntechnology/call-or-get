@@ -1,7 +1,6 @@
 {
     "compilerOptions": {
         "outDir": "dist",
-        "jsx": "react-jsx",
         "declaration": true,
         "strict": true,
         "alwaysStrict": true,
