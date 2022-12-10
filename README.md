@@ -1,16 +1,16 @@
-# CallOrGet
+# ValueOrFactory
 
 A simple utility type and function that allows you to pass and generate values that are either a value or a function that generates a value.
 
 ## Installation
 
 ```bash
-npm install call-or-get
+npm install value-or-factory
 ```
 
 ## Usage
 
-```python
+```typescript
 import { callOrGet, ValueOrFactory } from "value-or-factory"
 
 function print(value: ValueOrFactory<string, [string]>) {
