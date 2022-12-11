@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Watch Value Or Factory",
+            "runtimeExecutable": "yarn",
+            "runtimeArgs": [
+                "watch"
+            ],
+        }
+    ]
+}
